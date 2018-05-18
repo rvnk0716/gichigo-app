@@ -19,4 +19,4 @@ src="https://github.com/rvnk0716/gichigo-app/blob/master/3.png" width="40%" heig
 留言回應通知及接收商品上架訊息的地區性推播(推播通知)
 
 <img src="https://github.com/rvnk0716/gichigo-app/blob/master/7.png" width="40%" height="40%"><img
-src="https://github.com/rvnk0716/gichigo-app/blob/master/6.png" width="40%" height="40%">
+src="https://github.com/rvnk0716/gichigo-app/blob/master/6.jpg" width="40%" height="40%">
